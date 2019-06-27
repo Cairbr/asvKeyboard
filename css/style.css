@@ -1,5 +1,5 @@
 :root {
-  --documentHeight: 1050px;
+  --documentHeight: 800px;
   --keyboardHeight: 390px;
   --keyboardButton: 80px;
   --keyboardLetterSpacing: 13px;
@@ -18,7 +18,7 @@ body {
 body {
   width: 1680px;
   height: var(--documentHeight);
-  margin: auto;
+  margin: 10px;
 }
 
 label {
